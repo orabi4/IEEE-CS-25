@@ -1,3 +1,0 @@
-/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/E/cmake-build-debug/CMakeFiles/E.dir
-/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/E/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/E/cmake-build-debug/CMakeFiles/rebuild_cache.dir
