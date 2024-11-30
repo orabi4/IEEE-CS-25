@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/A/cmake-build-debug",
+	"dir-cur-src" : "/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/A",
+	"dir-top-bld" : "/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/A/cmake-build-debug",
+	"dir-top-src" : "/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/A",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/mnt/Track/Courses/IEEE/IEEE-CS-25/Rookies/Task1/A/cmake-build-debug/CMakeFiles/A.dir"
+}
